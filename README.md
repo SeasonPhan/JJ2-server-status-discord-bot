@@ -2,6 +2,7 @@
 Discord bot that displays Jazz Jackrabbit 2 server status, current gamemode as "Playing.." status
 
 How to setup:
+0. Download this repo and extract all files
 1. Install Python3 (3.8 or higher recommended)
 2. Install all required libraries (run command: pip install -r requirements.txt)
 3. Edit config.ini file
